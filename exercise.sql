@@ -1,2 +1,2 @@
-use sterrenstelsel;
-create table planeten (name VARCHAR(20));
+
+insert into planeten (naam) value ("zon"), ("mercurius"), ("venus"), ("aarde"), ("mars");
